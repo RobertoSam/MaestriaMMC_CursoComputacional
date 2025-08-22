@@ -1,26 +1,23 @@
-# Redes de Aprendizaje y Métodos Basados en Árboles
+# Curso Computacional – Maestría MMC
 
-Este repositorio contiene notebooks y presentaciones desarrolladas en el curso de **Métodos Computacionales** de la **Maestría en Modelización Matemática y Computacional - UNI**.
+Este repositorio contiene el material práctico del curso de Métodos Computacionales de la Maestría en Modelización Matemática y Computacional – UNI.  
+Incluye notebooks sobre redes neuronales y métodos de boosting, listos para ejecutarse en Google Colab.
 
-## 📘 Contenido
+## 📘 Notebooks (abrir en Colab)
 
-- Clasificación de dígitos con redes neuronales densas
-- Introducción a redes neuronales profundas y convolucionales (CNN)
-- Métodos de aprendizaje basados en árboles: Árboles de decisión, Bagging, Boosting, Random Forest, Adaboost
+- [Métodos basados en árboles](https://colab.research.google.com/github/RobertoSam/MaestriaMMC_CursoComputacional/blob/main/materialboostingyredesneuronales/Métodos_basados_en_árboles%20(1).ipynb)
+- [Adaboost](https://colab.research.google.com/github/RobertoSam/MaestriaMMC_CursoComputacional/blob/main/materialboostingyredesneuronales/Adaboost.ipynb)
+- [Clasificación de dígitos (MNIST)](https://colab.research.google.com/github/RobertoSam/MaestriaMMC_CursoComputacional/blob/main/materialboostingyredesneuronales/mnist-digit-classification-with-a-fully-connected-neural-network.ipynb)
 
 ## 📁 Estructura
 
 ```
-📦 redes-aprendizaje-mm
-├── README.md
-├── requirements.txt
-├── 📁 notebooks
-│   ├── [Clasificación MNIST](https://colab.research.google.com/github/tu_usuario/redes-aprendizaje-mm/blob/main/notebooks/mnist-digit-classification.ipynb)
-│   ├── [Adaboost](https://colab.research.google.com/github/tu_usuario/redes-aprendizaje-mm/blob/main/notebooks/adaboost.ipynb)
-│   ├── [Métodos basados en árboles](https://colab.research.google.com/github/tu_usuario/redes-aprendizaje-mm/blob/main/notebooks/metodos-arboles.ipynb)
-├── 📁 presentaciones
-│   ├── redes-neuronales.pptx
-│   ├── metodos-arboles.pptx
+MaestriaMMC_CursoComputacional/
+└── materialboostingyredesneuronales/
+    ├── Métodos_basados_en_árboles (1).ipynb
+    ├── Adaboost.ipynb
+    ├── mnist-digit-classification-with-a-fully-connected-neural-network.ipynb
+    ├── archivos Python adicionales
 ```
 
 ## 🧪 Requisitos
@@ -33,8 +30,6 @@ pip install -r requirements.txt
 
 ## 👨‍🎓 Autor
 
-Estudiante de la Maestría en Modelización Matemática y Computacional - UNI
+Estudiante de la Maestría en Modelización Matemática y Computacional – UNI
 
----
-
-> Abre los notebooks directamente en [Google Colab](https://colab.research.google.com/) para ejecutarlos fácilmente.
+> Ejecuta los notebooks fácilmente en [Google Colab](https://colab.research.google.com/)
